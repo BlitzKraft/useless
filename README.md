@@ -9,3 +9,11 @@ describing a useless machine implementation in python.
 
 A [useless machine](https://en.wikipedia.org/wiki/Useless_machine) is one that
 solely turns itself off, after turning on.
+
+## Contributing
+
+* Submit a pull request!
+* Killing a process should not be indiscriminate! It should exclusively kill
+  itself and no other process. 
+* Code should be readable, and NOT obfuscated.
+* I will test it and merge the pull request!
