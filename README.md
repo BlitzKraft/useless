@@ -15,5 +15,6 @@ solely turns itself off, after turning on.
 * Submit a pull request!
 * Killing a process should not be indiscriminate! It should exclusively kill
   itself and no other process. 
+* Whereever possible/applicable, use SIGTERM (15). 
 * Code should be readable, and NOT obfuscated.
 * I will test it and merge the pull request!
