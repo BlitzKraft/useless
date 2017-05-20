@@ -2,6 +2,6 @@
 #include <unistd.h>
 
 int main(void) {
-  kill(getpid(), SIGKILL);
+  kill(getpid(), SIGTERM);
   return 0; // Never reached.
 }
