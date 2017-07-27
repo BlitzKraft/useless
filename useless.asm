@@ -1,0 +1,3 @@
+MOV AL, 1
+MOV EBX, 0
+INT 80h
